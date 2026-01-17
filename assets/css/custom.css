@@ -1,0 +1,30 @@
+.timeline {
+  border-left: 3px solid #007ACC; /* vertical line */
+  padding-left: 20px;
+  margin-left: 10px;
+}
+
+.timeline-item {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -11px; /* aligns with border */
+  top: 5px;
+  width: 10px;
+  height: 10px;
+  background-color: #007ACC;
+  border-radius: 50%;
+}
+
+.timeline-item h4 {
+  margin: 0 0 5px 0;
+  color: #007ACC;
+}
+
+.timeline-item p {
+  margin: 0 0 10px 0;
+}
