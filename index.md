@@ -16,24 +16,15 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 
 ## Skills
 
-<details>
-<summary><strong>Core Mechanical Engineering</strong></summary>
-
+### Core Strengths
 <label>Mechanical Design</label>
-<progress value="80" max="100"></progress>
+<progress value="85" max="100"></progress>
 
 <label>Manufacturing Processes</label>
-<progress value="75" max="100"></progress>
+<progress value="80" max="100"></progress>
 
-<label>Quality Control & Inspection</label>
-<progress value="70" max="100"></progress>
-
-<label>Engineering Drawings</label>
-<progress value="85" max="100"></progress>
-</details>
-
-<details>
-<summary><strong>Tools & Software</strong></summary>
+<label>Engineering Documentation</label>
+<progress value="90" max="100"></progress>
 
 <label>AutoCAD / Autodesk Tools</label>
 <progress value="80" max="100"></progress>
@@ -41,18 +32,49 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 <label>MS Excel (Engineering Analysis)</label>
 <progress value="85" max="100"></progress>
 
-<label>Technical Documentation</label>
-<progress value="90" max="100"></progress>
+---
+
+### Additional Skills
+
+<details>
+<summary><strong>Mechanical Engineering</strong></summary>
+
+- GD&T  
+- Engineering Drawings  
+- Quality Control & Inspection  
+- Material Selection  
+- Tolerance Analysis  
+
+</details>
+
+<details>
+<summary><strong>Tools & Software</strong></summary>
+
+- AutoCAD  
+- Autodesk Inventor  
+- MS Excel (Formulas, Charts, Analysis)  
+- Technical Documentation  
+
 </details>
 
 <details>
 <summary><strong>Process & Operations</strong></summary>
 
-<label>Process Improvement</label>
-<progress value="75" max="100"></progress>
+- Process Improvement  
+- Root Cause Analysis  
+- Production Planning  
+- Vendor Coordination  
 
-<label>Root Cause Analysis</label>
-<progress value="70" max="100"></progress>
+</details>
+
+<details>
+<summary><strong>Professional Skills</strong></summary>
+
+- Problem Solving  
+- Continuous Learning  
+- Team Collaboration  
+- Communication Skills  
+
 </details>
 
 ## Resume
