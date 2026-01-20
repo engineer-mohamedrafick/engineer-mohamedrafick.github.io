@@ -3,7 +3,7 @@ layout: home
 title: Mechanical Engineer
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css
+/assets/css/custom.css
 
 Welcome to my professional portfolio.
 
