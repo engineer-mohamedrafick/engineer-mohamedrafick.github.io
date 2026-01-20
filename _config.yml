@@ -1,3 +1,7 @@
 theme: minima
 title: Mohamed Rafick S
 description: Mechanical Engineer | Professional Portfolio
+
+# Enable GitHub Pages defaults
+markdown: kramdown
+highlighter: rouge
