@@ -1,11 +1,11 @@
-
 ---
 layout: home
 title: Mechanical Engineer
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-Hi, I’m Mohamed Rafick  
+Hi, I’m Mohamed Rafick 
 
 I’m a Senior Mechanical & Product Engineer with 8+ years of experience in global MNC environments, delivering engineering solutions across the full product lifecycle—from concept, design, and validation to manufacturing, quality, and continuous improvement.
 
@@ -188,4 +188,3 @@ Download Resume (PDF)
 ## Contact  
 Email: engineer.rafick@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mohamed-rafick-s
-``
